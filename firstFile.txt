@@ -1,7 +1,7 @@
-Line 1
-Line 2
-Line 3
-Line 4
+Line 1 updated by git_1 first 
+Line 2 updated by git_1 first
+Line 3 updated by git_1 second
+Line 4 updated by git_1 second
 Line 5
 Line 6
 Line 7

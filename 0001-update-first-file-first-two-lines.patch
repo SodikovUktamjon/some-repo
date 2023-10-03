@@ -1,0 +1,24 @@
+From 9b00beab6c1f99ace1ae7bb5e420cc7e7411d56a Mon Sep 17 00:00:00 2001
+From: UktamjonSodikov <sodikovuktamjon30@gmail.com>
+Date: Tue, 3 Oct 2023 14:57:35 +0500
+Subject: [PATCH] update first file first two lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..9affc3a 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1
+-Line 2
++Line 1 updated by git_1 first 
++Line 2 updated by git_1 first
+ Line 3
+ Line 4
+ Line 5
+-- 
+2.38.1.windows.1
+
